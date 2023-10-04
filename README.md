@@ -1,8 +1,9 @@
 # gitbookTest
 
-testing gitbook sync!
+testing Gitbook sync!
 
+Trying to go backwards to Github now!
 
-trying to go backwards to github now
+OMG it goes both WAYS WHAT!&#x20;
 
-omg it goes both WAYS WHAT!
+DO YOU SEE MY EDITS?!?!?! 😂
